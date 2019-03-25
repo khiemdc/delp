@@ -15,7 +15,7 @@
       "name": "The Economic Impact Of The Syrian War And The Spread Of ISIS",
       "type": "Classified",
       "description": "In the absence of the Green Lantern Corps, Sinestro and his fear-inducing Yellow Lantern Corps patrol the universe as its sole protectors—but deep in space, a green light still burns. Harnessing the remainder of his will, Hal Jordan must become a one-man GL Corps to defeat his greatest foe and restore freedom to the cosmos.",
-      "filePath": "economic.pdf",
+      "filePath": "assets/economic.pdf",
       "imagePath": "assets/syria.png",
       "country": "Syria, Iraq",
       "rating": 3
@@ -25,7 +25,7 @@
         "name": "Syria’s civil war has reinforced Iraqi state weakness and fears",
         "type": "Classified",
         "description": "Syria’s civil war has reinforced Iraqi state weakness and fears of partition along ethno-sectarian lines. The conflict has encour-aged the proliferation of militias, refugee flows and Kurdish transnationalism, all of which challenge Baghdad’s sovereignty and enhance the de facto authority of sub-state actors.",
-        "filePath": "syria.pdf",
+        "filePath": "assets/syria.pdf",
         "imagePath": "assets/pakistan.jpg",
         "country": "Pakistan",
         "rating": 4
